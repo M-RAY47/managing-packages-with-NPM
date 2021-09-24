@@ -1,6 +1,7 @@
 {
 	"author": "Abdou Yahouza M.RAY",
 	"description": "An awesome Back end Project from fcc",
+	"keywords": ["freecodecamp", "intersting", "exciting"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
