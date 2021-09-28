@@ -1,12 +1,15 @@
 {
 	"author": "Abdou Yahouza M.RAY",
 	"description": "An awesome Back end Project from fcc",
-	"keywords": ["freecodecamp", "intersting", "exciting"],
+	"keywords": [
+		"freecodecamp",
+		"intersting",
+		"exciting"
+	],
 	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
-
+		"express": "^4.17.1"
 	},
 	"main": "server.js",
 	"scripts": {
